@@ -13,3 +13,5 @@ print(iced_tea)
 p = [a for a in  menu if len(a) > 10]
 
 print(f"{p} is length tea")
+
+#expression for item in iterable if condition

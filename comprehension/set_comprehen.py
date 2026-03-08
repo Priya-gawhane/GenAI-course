@@ -17,3 +17,4 @@ RECIPES = {
 
 unique_spices = {spice for ingredients in RECIPES.values() for spice in ingredients}
 print(unique_spices)
+#expression for item in iterable if condition
